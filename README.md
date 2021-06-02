@@ -34,3 +34,7 @@
 ![image](https://user-images.githubusercontent.com/80450495/120317248-1033db80-c2e7-11eb-8e6e-5fd4eb323760.png)
 ![image](https://user-images.githubusercontent.com/80450495/120317266-17f38000-c2e7-11eb-9c3c-549af9b5379b.png)
 
+Работа окна Alert
+![Задача 4, исправленная выдача ошибки](https://user-images.githubusercontent.com/80450495/120477386-6458c180-c3b4-11eb-910e-b0fbb37e0d4d.PNG)
+
+

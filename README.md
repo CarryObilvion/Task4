@@ -35,6 +35,7 @@
 ![image](https://user-images.githubusercontent.com/80450495/120317266-17f38000-c2e7-11eb-9c3c-549af9b5379b.png)
 
 Работа окна Alert
-![Задача 4, исправленная выдача ошибки](https://user-images.githubusercontent.com/80450495/120477386-6458c180-c3b4-11eb-910e-b0fbb37e0d4d.PNG)
+
+![image](https://user-images.githubusercontent.com/80450495/120477646-b00b6b00-c3b4-11eb-9006-c10c63dffeaa.png)
 
 
